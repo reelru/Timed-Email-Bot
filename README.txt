@@ -29,7 +29,7 @@ sendDays		a list of integers that represent a day of the week where monday = 0
 dueDate			an integer representing a day of the week where monday = 0
 			this is the weekday of the repeating date of why you're notifying people.
 
-Below is an example of what a simplified outgoing email might look like with the example variables. values.
+Below is an example of what a simplified outgoing email might look like with the example variable values.
 
 From: example@gmail.com
 To: example@gmail.com,example@gmail.com
